@@ -511,6 +511,27 @@ BuildingPortraits/Assembly Plant
   orig: 192, 192
   offset: 0, 0
   index: -1
+BuildingPortraits/Background
+  rotate: false
+  xy: 1804, 404
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Background
+  rotate: false
+  xy: 1804, 404
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+ResourcePortraits/Background
+  rotate: false
+  xy: 1804, 404
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
 BuildingPortraits/Ball Court
   rotate: false
   xy: 4, 278
@@ -738,27 +759,6 @@ LeaderIcons/Zara Yaqob
 ResourcePortraits/Aluminum
   rotate: false
   xy: 1834, 604
-  size: 192, 192
-  orig: 192, 192
-  offset: 0, 0
-  index: -1
-ResourcePortraits/Background
-  rotate: false
-  xy: 1804, 404
-  size: 192, 192
-  orig: 192, 192
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Background
-  rotate: false
-  xy: 1804, 404
-  size: 192, 192
-  orig: 192, 192
-  offset: 0, 0
-  index: -1
-ImprovementPortraits/Background
-  rotate: false
-  xy: 1804, 404
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
