@@ -2,6 +2,8 @@
 
 [Unciv](https://github.com/yairm210/Unciv) mod for using the Civ IV graphics, art, and icons.
 
+![Screenshot of a list of buildings using the Civ IV icons](preview.png)
+
 ## Features
 
 - Leader Portraits
