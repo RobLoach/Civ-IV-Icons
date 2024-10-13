@@ -1,6 +1,6 @@
 # Civ IV Icons for Unciv
 
-[Unciv](https://github.com/yairm210/Unciv) mod for using the Civ IV graphics, art, and icons.
+[Unciv](https://github.com/yairm210/Unciv) mod for using the Civ IV graphics, art, and icons. Works well with the [Civ IV mod](https://github.com/yairm210/Unciv-IV-mod).
 
 ![Screenshot of a list of buildings using the Civ IV icons](preview.png)
 
