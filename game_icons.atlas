@@ -1,34 +1,76 @@
 
 game_icons.png
-size: 512, 128
+size: 1024, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 EmojiIcons/Culture
   rotate: false
-  xy: 98, 10
+  xy: 202, 44
   size: 84, 80
   orig: 84, 80
   offset: 0, 0
   index: -1
+EmojiIcons/Death
+  rotate: false
+  xy: 561, 60
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 EmojiIcons/Food
   rotate: false
-  xy: 4, 4
+  xy: 108, 38
   size: 86, 86
   orig: 86, 86
   offset: 0, 0
   index: -1
+EmojiIcons/Gold
+  rotate: false
+  xy: 386, 42
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+EmojiIcons/Happiness
+  rotate: false
+  xy: 633, 82
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
 EmojiIcons/Production
   rotate: false
-  xy: 190, 10
+  xy: 294, 44
   size: 84, 80
   orig: 84, 80
   offset: 0, 0
   index: -1
 EmojiIcons/Science
   rotate: false
-  xy: 282, 13
+  xy: 476, 47
   size: 77, 77
   orig: 77, 77
+  offset: 0, 0
+  index: -1
+EmojiIcons/SortedAscending
+  rotate: false
+  xy: 202, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+EmojiIcons/SortedDescending
+  rotate: false
+  xy: 242, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+EmojiIcons/Turn
+  rotate: false
+  xy: 4, 28
+  size: 96, 96
+  orig: 96, 96
   offset: 0, 0
   index: -1
