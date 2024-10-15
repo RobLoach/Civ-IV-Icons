@@ -1,13 +1,34 @@
 
 game_icons.png
-size: 128, 128
+size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-EmojiIcons/Production
+EmojiIcons/Culture
   rotate: false
-  xy: 4, 4
+  xy: 98, 10
   size: 84, 80
   orig: 84, 80
+  offset: 0, 0
+  index: -1
+EmojiIcons/Food
+  rotate: false
+  xy: 4, 4
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+EmojiIcons/Production
+  rotate: false
+  xy: 190, 10
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+EmojiIcons/Science
+  rotate: false
+  xy: 282, 13
+  size: 77, 77
+  orig: 77, 77
   offset: 0, 0
   index: -1
