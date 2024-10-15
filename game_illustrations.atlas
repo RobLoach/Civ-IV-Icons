@@ -1,0 +1,311 @@
+
+game_illustrations.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+VictoryIllustrations/Diplomatic/Background
+  rotate: false
+  xy: 732, 1476
+  size: 720, 486
+  orig: 720, 486
+  offset: 0, 0
+  index: -1
+VictoryIllustrations/Domination/Background
+  rotate: false
+  xy: 732, 1476
+  size: 720, 486
+  orig: 720, 486
+  offset: 0, 0
+  index: -1
+VictoryIllustrations/Scientific/Background
+  rotate: false
+  xy: 732, 1476
+  size: 720, 486
+  orig: 720, 486
+  offset: 0, 0
+  index: -1
+VictoryIllustrations/Time/Background
+  rotate: false
+  xy: 732, 1476
+  size: 720, 486
+  orig: 720, 486
+  offset: 0, 0
+  index: -1
+WonderImages/Angkor Wat
+  rotate: false
+  xy: 4, 1602
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Apostolic Palace
+  rotate: false
+  xy: 4, 1234
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Broadway
+  rotate: false
+  xy: 4, 866
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Chichen Itza
+  rotate: false
+  xy: 732, 1108
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Colossus
+  rotate: false
+  xy: 4, 498
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Cristo Redentor
+  rotate: false
+  xy: 732, 740
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Eiffel Tower
+  rotate: false
+  xy: 4, 130
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Hagia Sophia
+  rotate: false
+  xy: 732, 372
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Hanging Gardens
+  rotate: false
+  xy: 732, 4
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+
+game_illustrations2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+WonderImages/Holywood
+  rotate: false
+  xy: 4, 1476
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Kremlin
+  rotate: false
+  xy: 4, 1108
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Manhattan Project
+  rotate: false
+  xy: 732, 1476
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Mausoleum of Maussollos
+  rotate: false
+  xy: 4, 740
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Notre Dame
+  rotate: false
+  xy: 732, 1108
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Oracle
+  rotate: false
+  xy: 4, 372
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Parthenon
+  rotate: false
+  xy: 732, 740
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Pentagon
+  rotate: false
+  xy: 4, 4
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Rock 'n' Roll
+  rotate: false
+  xy: 732, 372
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Shwedagon Paya
+  rotate: false
+  xy: 732, 4
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+
+game_illustrations3.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+WonderImages/Sistine Chapel
+  rotate: false
+  xy: 4, 1476
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Space Elevator
+  rotate: false
+  xy: 4, 1108
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Spiral Minaret
+  rotate: false
+  xy: 732, 1476
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Statue of Liberty
+  rotate: false
+  xy: 4, 740
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Statue of Zeus
+  rotate: false
+  xy: 732, 1108
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Stonehenge
+  rotate: false
+  xy: 4, 372
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Taj Mahal
+  rotate: false
+  xy: 732, 740
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/The Great Library
+  rotate: false
+  xy: 4, 4
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/The Great Lighthouse
+  rotate: false
+  xy: 732, 372
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/The Internet
+  rotate: false
+  xy: 732, 4
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+
+game_illustrations4.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+VictoryIllustrations/Diplomatic/Won
+  rotate: false
+  xy: 732, 992
+  size: 720, 486
+  orig: 720, 486
+  offset: 0, 0
+  index: -1
+VictoryIllustrations/Domination/Won
+  rotate: false
+  xy: 732, 4
+  size: 720, 486
+  orig: 720, 486
+  offset: 0, 0
+  index: -1
+VictoryIllustrations/Scientific/Won
+  rotate: false
+  xy: 4, 256
+  size: 720, 486
+  orig: 720, 486
+  offset: 0, 0
+  index: -1
+VictoryIllustrations/Time/Won
+  rotate: false
+  xy: 732, 498
+  size: 720, 486
+  orig: 720, 486
+  offset: 0, 0
+  index: -1
+WonderImages/The Pyramids
+  rotate: false
+  xy: 4, 1486
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Three Gorges Dam
+  rotate: false
+  xy: 4, 1118
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/United Nations
+  rotate: false
+  xy: 732, 1486
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+WonderImages/Versailles
+  rotate: false
+  xy: 4, 750
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
