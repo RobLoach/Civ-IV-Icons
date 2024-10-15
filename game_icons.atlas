@@ -1,0 +1,13 @@
+
+game_icons.png
+size: 128, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+EmojiIcons/Production
+  rotate: false
+  xy: 4, 4
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1

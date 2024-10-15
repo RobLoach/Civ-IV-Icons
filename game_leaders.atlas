@@ -1,0 +1,376 @@
+
+game_leaders.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+LeaderIcons/Alexander
+  rotate: false
+  xy: 4, 1634
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Asoka
+  rotate: false
+  xy: 4, 1308
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Augustus Caesar
+  rotate: false
+  xy: 330, 1634
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Boudica
+  rotate: false
+  xy: 4, 982
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Brennus
+  rotate: false
+  xy: 330, 1308
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Catherine
+  rotate: false
+  xy: 656, 1634
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Charlemagne
+  rotate: false
+  xy: 4, 656
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Churchill
+  rotate: false
+  xy: 330, 982
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Cyrus II
+  rotate: false
+  xy: 656, 1308
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Darius I
+  rotate: false
+  xy: 982, 1634
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/De Gaulle
+  rotate: false
+  xy: 4, 330
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Elizabeth
+  rotate: false
+  xy: 330, 656
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Frederick
+  rotate: false
+  xy: 656, 982
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Gandhi
+  rotate: false
+  xy: 982, 1308
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Genghis Khan
+  rotate: false
+  xy: 1308, 1634
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/George Washington
+  rotate: false
+  xy: 4, 4
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Gilgamesh
+  rotate: false
+  xy: 330, 330
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Hammurabi
+  rotate: false
+  xy: 656, 656
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Hannibal
+  rotate: false
+  xy: 982, 982
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Hatshepsut
+  rotate: false
+  xy: 1308, 1308
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Huayna Capac
+  rotate: false
+  xy: 1634, 1634
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Isabella
+  rotate: false
+  xy: 330, 4
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Joao II
+  rotate: false
+  xy: 656, 330
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Julius Caesar
+  rotate: false
+  xy: 982, 656
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Justinian I
+  rotate: false
+  xy: 1308, 982
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Kublai Khan
+  rotate: false
+  xy: 1634, 1308
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Lincoln
+  rotate: false
+  xy: 656, 4
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Louis XIV
+  rotate: false
+  xy: 982, 330
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Mansa Musa
+  rotate: false
+  xy: 1308, 656
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Mao Zedong
+  rotate: false
+  xy: 1634, 982
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Mehmed II
+  rotate: false
+  xy: 982, 4
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Montezuma II
+  rotate: false
+  xy: 1308, 330
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Napoleon
+  rotate: false
+  xy: 1634, 656
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Otto von Bismarck
+  rotate: false
+  xy: 1308, 4
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Pacal II
+  rotate: false
+  xy: 1634, 330
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Pericles
+  rotate: false
+  xy: 1634, 4
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+
+game_leaders2.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+LeaderIcons/Peter
+  rotate: false
+  xy: 4, 656
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Qin Shi Huang
+  rotate: false
+  xy: 4, 330
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Ragnar
+  rotate: false
+  xy: 330, 656
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Ramesses II
+  rotate: false
+  xy: 4, 4
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Roosevelt
+  rotate: false
+  xy: 330, 330
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Saladin
+  rotate: false
+  xy: 656, 656
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Shaka
+  rotate: false
+  xy: 330, 4
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Sitting Bull
+  rotate: false
+  xy: 656, 330
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Stalin
+  rotate: false
+  xy: 982, 656
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Suleiman
+  rotate: false
+  xy: 656, 4
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Suryavarman II
+  rotate: false
+  xy: 982, 330
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Tokugawa Ieyasu
+  rotate: false
+  xy: 1308, 656
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Victoria
+  rotate: false
+  xy: 982, 4
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Wang Kon
+  rotate: false
+  xy: 1308, 330
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Willem van Oranje
+  rotate: false
+  xy: 1634, 656
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+LeaderIcons/Zara Yaqob
+  rotate: false
+  xy: 1308, 4
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
