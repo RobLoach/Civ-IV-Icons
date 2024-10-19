@@ -132,56 +132,56 @@ BuildingPortraits/Cathedral
   index: -1
 BuildingPortraits/Chichen Itza
   rotate: false
-  xy: 1204, 1404
+  xy: 1404, 1604
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
   index: -1
 BuildingPortraits/Church of the Nativity
   rotate: false
-  xy: 1604, 1804
+  xy: 4, 4
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
   index: -1
 BuildingPortraits/Citadel
   rotate: false
-  xy: 4, 4
+  xy: 204, 204
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
   index: -1
 BuildingPortraits/Coal Plant
   rotate: false
-  xy: 604, 604
+  xy: 804, 804
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
   index: -1
 BuildingPortraits/Colosseum
   rotate: false
-  xy: 804, 804
+  xy: 1004, 1004
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
   index: -1
 BuildingPortraits/Colossus
   rotate: false
-  xy: 1004, 1004
+  xy: 1204, 1204
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
   index: -1
 BuildingPortraits/Cothon
   rotate: false
-  xy: 604, 404
+  xy: 804, 604
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
   index: -1
 BuildingPortraits/Courthouse
   rotate: false
-  xy: 1004, 804
+  xy: 1204, 1004
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
@@ -314,7 +314,7 @@ ImprovementPortraits/Camp
   index: -1
 ImprovementPortraits/Cottage
   rotate: false
-  xy: 804, 604
+  xy: 1004, 804
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
@@ -382,37 +382,37 @@ ResourcePortraits/Bananas
   orig: 192, 192
   offset: 0, 0
   index: -1
-ResourcePortraits/Clam
+ResourcePortraits/Cattle
   rotate: false
-  xy: 204, 204
+  xy: 804, 1004
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
   index: -1
-ResourcePortraits/Coal
+ResourcePortraits/Clam
   rotate: false
   xy: 404, 404
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
   index: -1
-ResourcePortraits/Copper
+ResourcePortraits/Coal
   rotate: false
-  xy: 1404, 1404
+  xy: 604, 604
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
   index: -1
-ResourcePortraits/Corn
+ResourcePortraits/Copper
   rotate: false
   xy: 1604, 1604
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
   index: -1
-ResourcePortraits/Cow
+ResourcePortraits/Corn
   rotate: false
-  xy: 1204, 1004
+  xy: 1804, 1804
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
@@ -468,7 +468,7 @@ ResourcePortraits/Gold Ore
   index: -1
 TechPortraits/Corporation
   rotate: false
-  xy: 204, 4
+  xy: 404, 204
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
@@ -601,42 +601,42 @@ UnitPortraits/Catapult
   index: -1
 UnitPortraits/Cavalry
   rotate: false
-  xy: 804, 1004
+  xy: 1004, 1204
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
   index: -1
 UnitPortraits/Chariot
   rotate: false
-  xy: 1004, 1204
+  xy: 1204, 1404
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
   index: -1
 UnitPortraits/Cho-Ko-Nu
   rotate: false
-  xy: 1404, 1604
+  xy: 1604, 1804
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
   index: -1
 UnitPortraits/Conquistador
   rotate: false
-  xy: 1204, 1204
+  xy: 1404, 1404
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
   index: -1
 UnitPortraits/Corporate Executive
   rotate: false
-  xy: 1804, 1804
+  xy: 204, 4
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
   index: -1
 UnitPortraits/Cossack
   rotate: false
-  xy: 404, 204
+  xy: 604, 404
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
