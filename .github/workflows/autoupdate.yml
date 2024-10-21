@@ -29,21 +29,21 @@ jobs:
           find Images* -type f -regex ".*png" | xargs -d '\n' $oxipng_file --opt max --strip all --alpha
           rm -rf $(ls -1 | grep oxipng)
 
-      # - uses: actions/setup-java@v4
-      #   with:
-      #     distribution: 'temurin'
-      #     java-version: 17
+      - uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: 17
 
-      # Runs a set of commands using the runners shell
-      # - name: Autoupdate
-      #   continue-on-error: true  # We want to autoupdate even if there are errors
-      #   run: |
-      #     unciv_url=$(curl -s https://api.github.com/repos/yairm210/unciv/releases/latest | grep -o "http.*Unciv.jar")
-      #     wget -q -O Unciv.jar $unciv_url
-      #     java -jar Unciv.jar mod-ci
+      Runs a set of commands using the runners shell
+      - name: Autoupdate
+        continue-on-error: true  # We want to autoupdate even if there are errors
+        run: |
+          unciv_url=$(curl -s https://api.github.com/repos/yairm210/unciv/releases/latest | grep -o "http.*Unciv.jar")
+          wget -q -O Unciv.jar $unciv_url
+          java -jar Unciv.jar mod-ci
 
-      # - name: Remove Unciv executable
-      #   run: rm Unciv.jar
+      - name: Remove Unciv executable
+        run: rm Unciv.jar
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
