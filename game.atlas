@@ -843,7 +843,7 @@ BuildingPortraits/Industrial Park
   orig: 192, 192
   offset: 0, 0
   index: -1
-BuildingPortraits/Intelligence Agency
+BuildingPortraits/National Intelligence Agency
   rotate: false
   xy: 204, 404
   size: 192, 192
@@ -2668,7 +2668,7 @@ UnitPortraits/Wolf_(Civ4)
   orig: 192, 192
   offset: 0, 0
   index: -1
-UnitPortraits/Work Boat
+UnitPortraits/Work Boats
   rotate: false
   xy: 404, 1750
   size: 192, 192
