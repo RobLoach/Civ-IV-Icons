@@ -172,7 +172,7 @@ UnitTypeIcons/Gunpowder
   orig: 183, 183
   offset: 0, 0
   index: -1
-UnitTypeIcons/Missle
+UnitTypeIcons/Missile
   rotate: false
   xy: 577, 108
   size: 183, 183
