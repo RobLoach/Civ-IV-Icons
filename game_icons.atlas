@@ -1,76 +1,216 @@
 
 game_icons.png
-size: 1024, 128
+size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 EmojiIcons/Culture
   rotate: false
-  xy: 202, 44
+  xy: 1341, 402
   size: 84, 80
   orig: 84, 80
   offset: 0, 0
   index: -1
 EmojiIcons/Death
   rotate: false
-  xy: 561, 60
+  xy: 1341, 330
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 EmojiIcons/Food
   rotate: false
-  xy: 108, 38
+  xy: 1150, 205
   size: 86, 86
   orig: 86, 86
   offset: 0, 0
   index: -1
 EmojiIcons/Gold
   rotate: false
-  xy: 386, 42
+  xy: 1150, 115
   size: 82, 82
   orig: 82, 82
   offset: 0, 0
   index: -1
 EmojiIcons/Happiness
   rotate: false
-  xy: 633, 82
+  xy: 1433, 440
   size: 42, 42
   orig: 42, 42
   offset: 0, 0
   index: -1
 EmojiIcons/Production
   rotate: false
-  xy: 294, 44
+  xy: 108, 20
   size: 84, 80
   orig: 84, 80
   offset: 0, 0
   index: -1
 EmojiIcons/Science
   rotate: false
-  xy: 476, 47
+  xy: 1244, 214
   size: 77, 77
   orig: 77, 77
   offset: 0, 0
   index: -1
 EmojiIcons/SortedAscending
   rotate: false
-  xy: 202, 4
+  xy: 200, 68
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 EmojiIcons/SortedDescending
   rotate: false
-  xy: 242, 4
+  xy: 1483, 450
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 EmojiIcons/Turn
   rotate: false
-  xy: 4, 28
+  xy: 4, 4
   size: 96, 96
   orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitTypeIcons/Archery
+  rotate: false
+  xy: 4, 299
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitTypeIcons/Armored
+  rotate: false
+  xy: 4, 108
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitTypeIcons/Bomber
+  rotate: false
+  xy: 195, 299
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitTypeIcons/DomainAir
+  rotate: false
+  xy: 195, 299
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitTypeIcons/Fighter
+  rotate: false
+  xy: 195, 299
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitTypeIcons/Helicopter
+  rotate: false
+  xy: 195, 299
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitTypeIcons/Civilian
+  rotate: false
+  xy: 195, 108
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitTypeIcons/Civilian Water
+  rotate: false
+  xy: 386, 299
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitTypeIcons/DomainWater
+  rotate: false
+  xy: 386, 299
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitTypeIcons/Melee Water
+  rotate: false
+  xy: 386, 299
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitTypeIcons/Ranged Water
+  rotate: false
+  xy: 386, 299
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitTypeIcons/Submarine
+  rotate: false
+  xy: 386, 299
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitTypeIcons/DomainLand
+  rotate: false
+  xy: 386, 108
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitTypeIcons/Gunpowder
+  rotate: false
+  xy: 577, 299
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitTypeIcons/Missle
+  rotate: false
+  xy: 577, 108
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitTypeIcons/Mounted
+  rotate: false
+  xy: 768, 299
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitTypeIcons/Scout
+  rotate: false
+  xy: 768, 108
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitTypeIcons/Siege
+  rotate: false
+  xy: 959, 299
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitTypeIcons/Sword
+  rotate: false
+  xy: 959, 108
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitTypeIcons/UnitTypes
+  rotate: false
+  xy: 1150, 299
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
