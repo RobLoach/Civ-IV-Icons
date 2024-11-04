@@ -4,6 +4,20 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingPortraits/Academy
+  rotate: false
+  xy: 4, 1804
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Academy
+  rotate: false
+  xy: 4, 1804
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
 BuildingPortraits/Airport
   rotate: false
   xy: 4, 1604
@@ -284,44 +298,9 @@ BuildingPortraits/Granary
   orig: 192, 192
   offset: 0, 0
   index: -1
-ImprovementPortraits/Academy
-  rotate: false
-  xy: 4, 1804
-  size: 192, 192
-  orig: 192, 192
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Academy
-  rotate: false
-  xy: 4, 1804
-  size: 192, 192
-  orig: 192, 192
-  offset: 0, 0
-  index: -1
 ImprovementPortraits/Ancient ruins
   rotate: false
   xy: 204, 1604
-  size: 192, 192
-  orig: 192, 192
-  offset: 0, 0
-  index: -1
-ImprovementPortraits/Background
-  rotate: false
-  xy: 804, 1804
-  size: 192, 192
-  orig: 192, 192
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Background
-  rotate: false
-  xy: 804, 1804
-  size: 192, 192
-  orig: 192, 192
-  offset: 0, 0
-  index: -1
-ResourcePortraits/Background
-  rotate: false
-  xy: 804, 1804
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
@@ -371,6 +350,27 @@ ImprovementPortraits/Fort
 ResourcePortraits/Aluminum
   rotate: false
   xy: 4, 1404
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+ResourcePortraits/Background
+  rotate: false
+  xy: 804, 1804
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Background
+  rotate: false
+  xy: 804, 1804
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Background
+  rotate: false
+  xy: 804, 1804
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
@@ -606,7 +606,7 @@ UnitPortraits/Chariot
   orig: 192, 192
   offset: 0, 0
   index: -1
-UnitPortraits/Cho-Ko-Nu
+UnitPortraits/Chu-Ko-Nu
   rotate: false
   xy: 1604, 1804
   size: 192, 192
@@ -962,6 +962,20 @@ BuildingPortraits/Mausoleum of Maussollos
   orig: 192, 192
   offset: 0, 0
   index: -1
+BuildingPortraits/Military Academy
+  rotate: false
+  xy: 1604, 1204
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Military Academy
+  rotate: false
+  xy: 1604, 1204
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
 BuildingPortraits/Mint
   rotate: false
   xy: 604, 4
@@ -1070,20 +1084,6 @@ ImprovementPortraits/Hamlet
 ImprovementPortraits/Lumber mill
   rotate: false
   xy: 604, 404
-  size: 192, 192
-  orig: 192, 192
-  offset: 0, 0
-  index: -1
-ImprovementPortraits/Military Academy
-  rotate: false
-  xy: 1604, 1204
-  size: 192, 192
-  orig: 192, 192
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Military Academy
-  rotate: false
-  xy: 1604, 1204
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
@@ -1256,7 +1256,7 @@ UnitPortraits/Horse Archer
   orig: 192, 192
   offset: 0, 0
   index: -1
-UnitPortraits/Hwacha
+UnitPortraits/Hwach'a
   rotate: false
   xy: 204, 604
   size: 192, 192
@@ -2180,28 +2180,42 @@ BuildingPortraits/Ziggurat
   index: -1
 ImprovementPortraits/Great Artist Specialist
   rotate: false
-  xy: 1723, 422
+  xy: 1150, 231
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 ImprovementPortraits/Great Engineer Specialist
   rotate: false
-  xy: 1532, 40
+  xy: 1341, 422
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 ImprovementPortraits/Great Merchant Specialist
   rotate: false
-  xy: 1723, 231
+  xy: 1532, 613
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 ImprovementPortraits/Great Priest Specialist
   rotate: false
-  xy: 1723, 40
+  xy: 1723, 804
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Great Scientist Specialist
+  rotate: false
+  xy: 1150, 40
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Great Spy Specialist
+  rotate: false
+  xy: 1341, 231
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
@@ -2236,91 +2250,28 @@ NationPortraits/Babylon
   index: -1
 NationPortraits/Byzantium
   rotate: false
-  xy: 1177, 1377
+  xy: 795, 1377
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 NationPortraits/Carthage
   rotate: false
-  xy: 1559, 1377
+  xy: 1177, 1377
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 NationPortraits/Ethiopia
   rotate: false
-  xy: 768, 40
+  xy: 959, 613
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
-PolicyIcons/Barbarism
+NationPortraits/Holy Rome
   rotate: false
-  xy: 1559, 1759
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-PolicyIcons/Bureaucracy
-  rotate: false
-  xy: 986, 1377
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-PolicyIcons/Caste System
-  rotate: false
-  xy: 1750, 1377
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-PolicyIcons/Decentralization
-  rotate: false
-  xy: 1732, 995
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-PolicyIcons/Despotism
-  rotate: false
-  xy: 577, 613
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-PolicyIcons/Emancipation
-  rotate: false
-  xy: 959, 422
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-PolicyIcons/Environmentalism
-  rotate: false
-  xy: 1341, 804
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-PolicyIcons/Free Market
-  rotate: false
-  xy: 1150, 40
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-PolicyIcons/Free Religion
-  rotate: false
-  xy: 1341, 231
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-PolicyIcons/Free Speech
-  rotate: false
-  xy: 1532, 422
+  xy: 1532, 40
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
@@ -2409,6 +2360,34 @@ TechPortraits/Astronomy
   orig: 183, 183
   offset: 0, 0
   index: -1
+TechPortraits/Background
+  rotate: false
+  xy: 4, 195
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+NationPortraits/Background
+  rotate: false
+  xy: 4, 195
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitPortraits/Background
+  rotate: false
+  xy: 4, 195
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/Background
+  rotate: false
+  xy: 4, 195
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
 TechPortraits/Banking
   rotate: false
   xy: 1368, 1568
@@ -2418,238 +2397,266 @@ TechPortraits/Banking
   index: -1
 TechPortraits/Biology
   rotate: false
-  xy: 1750, 1568
+  xy: 1750, 1759
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Bronze Working
   rotate: false
-  xy: 795, 1377
+  xy: 604, 1377
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Calendar
   rotate: false
-  xy: 1368, 1377
+  xy: 986, 1377
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Chemistry
   rotate: false
-  xy: 195, 768
+  xy: 1559, 1377
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Civil Service
   rotate: false
-  xy: 386, 777
+  xy: 195, 4
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Code of Laws
   rotate: false
-  xy: 386, 586
+  xy: 395, 1159
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Combustion
   rotate: false
-  xy: 1168, 1186
+  xy: 595, 1186
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Communism
   rotate: false
-  xy: 1550, 1186
+  xy: 977, 1186
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Compass
   rotate: false
-  xy: 1741, 1186
+  xy: 1168, 1186
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Composites
   rotate: false
-  xy: 586, 995
+  xy: 1359, 1186
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Computers
   rotate: false
-  xy: 777, 995
+  xy: 1550, 1186
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Constitution
   rotate: false
-  xy: 968, 995
+  xy: 1741, 1186
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Construction
   rotate: false
-  xy: 1159, 995
+  xy: 586, 995
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Currency
   rotate: false
-  xy: 1541, 995
+  xy: 968, 995
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Democracy
   rotate: false
-  xy: 577, 804
+  xy: 1159, 995
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Divine Right
   rotate: false
-  xy: 768, 804
+  xy: 1350, 995
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Drama
   rotate: false
-  xy: 577, 422
+  xy: 1541, 995
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Ecology
   rotate: false
-  xy: 959, 613
+  xy: 577, 422
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Economics
   rotate: false
-  xy: 1150, 804
+  xy: 768, 613
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Education
   rotate: false
-  xy: 577, 40
+  xy: 959, 804
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Electricity
   rotate: false
-  xy: 768, 231
+  xy: 577, 231
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Engineering
   rotate: false
-  xy: 1150, 613
+  xy: 768, 422
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Fascism
   rotate: false
-  xy: 959, 231
+  xy: 1150, 804
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Feudalism
   rotate: false
-  xy: 1150, 422
+  xy: 577, 40
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Fiber Optics
   rotate: false
-  xy: 1341, 613
+  xy: 768, 231
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Fishing
   rotate: false
-  xy: 1532, 804
+  xy: 959, 422
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Fission
   rotate: false
-  xy: 959, 40
+  xy: 1150, 613
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Flight
   rotate: false
-  xy: 1532, 613
+  xy: 959, 231
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Fusion
   rotate: false
-  xy: 1723, 613
+  xy: 1341, 613
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Future Tech
   rotate: false
-  xy: 1341, 40
+  xy: 1532, 804
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 BuildingPortraits/Utopia Project 1
   rotate: false
-  xy: 1341, 40
+  xy: 1532, 804
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 BuildingPortraits/Utopia Project 2
   rotate: false
-  xy: 1341, 40
+  xy: 1532, 804
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 BuildingPortraits/Utopia Project 3
   rotate: false
-  xy: 1341, 40
+  xy: 1532, 804
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Genetics
   rotate: false
+  xy: 959, 40
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Guilds
+  rotate: false
   xy: 1532, 231
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Gunpowder
+  rotate: false
+  xy: 1723, 422
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Horseback Riding
+  rotate: false
+  xy: 1723, 231
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Hunting
+  rotate: false
+  xy: 1723, 40
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
@@ -2703,212 +2710,205 @@ UnitPromotionPortraits/Amphibious
   orig: 183, 183
   offset: 0, 0
   index: -1
-UnitPromotionPortraits/Background
-  rotate: false
-  xy: 4, 195
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-NationPortraits/Background
-  rotate: false
-  xy: 4, 195
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Background
-  rotate: false
-  xy: 4, 195
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-UnitPortraits/Background
-  rotate: false
-  xy: 4, 195
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
 UnitPromotionPortraits/Barrage I
   rotate: false
-  xy: 4, 4
+  xy: 1559, 1759
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Barrage II
   rotate: false
-  xy: 1559, 1568
+  xy: 4, 4
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Barrage III
   rotate: false
-  xy: 1750, 1759
+  xy: 1559, 1568
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Blitz
   rotate: false
-  xy: 604, 1377
+  xy: 1750, 1568
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Charge
   rotate: false
-  xy: 195, 959
+  xy: 1368, 1377
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/City Garrison I
   rotate: false
-  xy: 195, 577
+  xy: 1750, 1377
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/City Garrison II
   rotate: false
-  xy: 195, 386
+  xy: 195, 959
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/City Garrison III
   rotate: false
-  xy: 195, 195
+  xy: 195, 768
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/City Raider I
   rotate: false
-  xy: 195, 4
+  xy: 195, 577
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/City Raider II
   rotate: false
-  xy: 395, 1159
+  xy: 195, 386
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/City Raider III
   rotate: false
-  xy: 386, 968
+  xy: 195, 195
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Combat I
   rotate: false
-  xy: 386, 395
+  xy: 386, 968
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Combat II
   rotate: false
-  xy: 386, 204
+  xy: 386, 777
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Combat III
   rotate: false
-  xy: 386, 13
+  xy: 386, 586
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Combat IV
   rotate: false
-  xy: 595, 1186
+  xy: 386, 395
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Combat V
   rotate: false
-  xy: 786, 1186
+  xy: 386, 204
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Combat VI
   rotate: false
-  xy: 977, 1186
+  xy: 386, 13
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Commando
   rotate: false
-  xy: 1359, 1186
+  xy: 786, 1186
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Cover
   rotate: false
-  xy: 1350, 995
+  xy: 777, 995
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Drill I
   rotate: false
-  xy: 768, 613
+  xy: 1732, 995
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Drill II
   rotate: false
-  xy: 959, 804
+  xy: 577, 804
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Drill III
   rotate: false
-  xy: 577, 231
+  xy: 577, 613
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Drill IV
   rotate: false
-  xy: 768, 422
+  xy: 768, 804
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Flanking I
   rotate: false
-  xy: 1150, 231
+  xy: 1341, 804
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Flanking II
   rotate: false
-  xy: 1341, 422
+  xy: 768, 40
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Formation
   rotate: false
-  xy: 1723, 804
+  xy: 1150, 422
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/Guerrilla I
+  rotate: false
+  xy: 1532, 422
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/Guerrilla II
+  rotate: false
+  xy: 1723, 613
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/Guerrilla III
+  rotate: false
+  xy: 1341, 40
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
@@ -2921,1043 +2921,868 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingPortraits/Manhattan Project
   rotate: false
-  xy: 4, 577
+  xy: 4, 959
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 BuildingPortraits/SDI
   rotate: false
-  xy: 1150, 577
+  xy: 577, 386
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 BuildingPortraits/SS Casing
   rotate: false
-  xy: 1341, 768
+  xy: 768, 577
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 BuildingPortraits/SS Cockpit
   rotate: false
-  xy: 1532, 959
+  xy: 959, 768
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 BuildingPortraits/SS Docking Bay
   rotate: false
-  xy: 1723, 1150
+  xy: 1150, 959
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 BuildingPortraits/SS Engine
   rotate: false
-  xy: 768, 4
+  xy: 1341, 1150
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 BuildingPortraits/SS Life Support
   rotate: false
-  xy: 959, 195
+  xy: 1532, 1341
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 BuildingPortraits/SS Stasis Chamber
   rotate: false
-  xy: 1150, 386
+  xy: 1723, 1532
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 BuildingPortraits/SS Thrusters
   rotate: false
-  xy: 1341, 577
+  xy: 386, 4
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 BuildingPortraits/The Internet
   rotate: false
-  xy: 1532, 4
+  xy: 1341, 768
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
-ImprovementPortraits/Great Scientist Specialist
-  rotate: false
-  xy: 4, 1723
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-ImprovementPortraits/Great Spy Specialist
-  rotate: false
-  xy: 4, 1532
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-NationPortraits/Holy Rome
-  rotate: false
-  xy: 386, 1532
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-NationPortraits/Khmer
-  rotate: false
-  xy: 768, 1723
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-NationPortraits/Korea
-  rotate: false
-  xy: 4, 768
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-NationPortraits/Maya
-  rotate: false
-  xy: 959, 1532
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-NationPortraits/Native America
-  rotate: false
-  xy: 4, 4
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-NationPortraits/Netherlands
-  rotate: false
-  xy: 577, 577
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-NationPortraits/Ottoman
-  rotate: false
-  xy: 1150, 1150
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-NationPortraits/Portugal
-  rotate: false
-  xy: 1341, 1150
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-NationPortraits/Sumeria
-  rotate: false
-  xy: 1341, 4
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-PolicyIcons/Hereditary Rule
-  rotate: false
-  xy: 195, 1341
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-PolicyIcons/Mercantilism
-  rotate: false
-  xy: 768, 1150
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-PolicyIcons/Nationhood
-  rotate: false
-  xy: 1532, 1723
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-PolicyIcons/Organized Religion
-  rotate: false
-  xy: 959, 959
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-PolicyIcons/Pacifism
-  rotate: false
-  xy: 1341, 1341
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-PolicyIcons/Paganism
-  rotate: false
-  xy: 1532, 1532
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-PolicyIcons/Police State
-  rotate: false
-  xy: 959, 768
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-PolicyIcons/Representation
-  rotate: false
-  xy: 1723, 1341
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-PolicyIcons/Serfdom
-  rotate: false
-  xy: 1341, 386
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-PolicyIcons/Slavery
-  rotate: false
-  xy: 1723, 768
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-PolicyIcons/State Property
-  rotate: false
-  xy: 1150, 4
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-PolicyIcons/Theocracy
-  rotate: false
-  xy: 1723, 4
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Guilds
-  rotate: false
-  xy: 386, 1723
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Gunpowder
-  rotate: false
-  xy: 4, 1150
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Horseback Riding
-  rotate: false
-  xy: 577, 1723
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Hunting
-  rotate: false
-  xy: 4, 959
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Industrialism
-  rotate: false
-  xy: 195, 1150
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Iron Working
-  rotate: false
-  xy: 577, 1532
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Laser
-  rotate: false
-  xy: 195, 959
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Liberalism
-  rotate: false
-  xy: 577, 1341
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Literature
-  rotate: false
-  xy: 768, 1532
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Machinery
-  rotate: false
-  xy: 959, 1723
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Masonry
-  rotate: false
-  xy: 386, 959
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Mass Media
-  rotate: false
-  xy: 577, 1150
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Mathematics
-  rotate: false
-  xy: 768, 1341
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Medicine
-  rotate: false
-  xy: 386, 768
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Meditation
-  rotate: false
-  xy: 577, 959
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Metal Casting
-  rotate: false
-  xy: 959, 1341
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Military Science
-  rotate: false
-  xy: 1150, 1532
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Military Tradition
-  rotate: false
-  xy: 1341, 1723
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Mining
-  rotate: false
-  xy: 4, 195
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Monarchy
-  rotate: false
-  xy: 386, 577
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Monotheism
-  rotate: false
-  xy: 577, 768
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Music
-  rotate: false
-  xy: 959, 1150
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Mysticism
-  rotate: false
-  xy: 1150, 1341
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Nationalism
-  rotate: false
-  xy: 1341, 1532
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Optics
-  rotate: false
-  xy: 768, 768
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Paper
-  rotate: false
-  xy: 1723, 1723
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Philosophy
-  rotate: false
-  xy: 195, 4
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Physics
-  rotate: false
-  xy: 386, 195
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Plastics
-  rotate: false
-  xy: 768, 577
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Polytheism
-  rotate: false
-  xy: 1150, 959
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Pottery
-  rotate: false
-  xy: 1532, 1341
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Priesthood
-  rotate: false
-  xy: 1723, 1532
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Printing Press
-  rotate: false
-  xy: 386, 4
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Radio
-  rotate: false
-  xy: 577, 195
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Railroad
-  rotate: false
-  xy: 768, 386
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Refrigeration
-  rotate: false
-  xy: 1341, 959
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Replaceable Parts
-  rotate: false
-  xy: 1532, 1150
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Rifling
-  rotate: false
-  xy: 577, 4
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Robotics
-  rotate: false
-  xy: 768, 195
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Rocketry
-  rotate: false
-  xy: 959, 386
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Sailing
-  rotate: false
-  xy: 1532, 768
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Satellites
-  rotate: false
-  xy: 1723, 959
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Scientific Method
-  rotate: false
-  xy: 959, 4
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Stealth
-  rotate: false
-  xy: 1341, 195
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Steam Power
-  rotate: false
-  xy: 1532, 386
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Steel
-  rotate: false
-  xy: 1723, 577
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/Superconductors
-  rotate: false
-  xy: 1532, 195
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-TechPortraits/The Wheel
-  rotate: false
-  xy: 1723, 195
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-UnitPromotionPortraits/Guerrilla I
-  rotate: false
-  xy: 195, 1723
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-UnitPromotionPortraits/Guerrilla II
-  rotate: false
-  xy: 4, 1341
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-UnitPromotionPortraits/Guerrilla III
-  rotate: false
-  xy: 195, 1532
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-UnitPromotionPortraits/Interception I
-  rotate: false
-  xy: 386, 1341
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-UnitPromotionPortraits/Leadership
-  rotate: false
-  xy: 386, 1150
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-UnitPromotionPortraits/March
-  rotate: false
-  xy: 195, 768
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-UnitPromotionPortraits/Medic I
-  rotate: false
-  xy: 1150, 1723
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-UnitPromotionPortraits/Medic II
-  rotate: false
-  xy: 4, 386
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-UnitPromotionPortraits/Medic III
-  rotate: false
-  xy: 195, 577
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-UnitPromotionPortraits/Mobility
-  rotate: false
-  xy: 195, 386
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-UnitPromotionPortraits/Morale
-  rotate: false
-  xy: 768, 959
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-UnitPromotionPortraits/Navigation I
-  rotate: false
-  xy: 195, 195
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-UnitPromotionPortraits/Navigation II
-  rotate: false
-  xy: 386, 386
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-UnitPromotionPortraits/Pinch
-  rotate: false
-  xy: 577, 386
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-UnitPromotionPortraits/Range I
-  rotate: false
-  xy: 959, 577
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-UnitPromotionPortraits/Range II
-  rotate: false
-  xy: 1150, 768
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-UnitPromotionPortraits/Sentry
-  rotate: false
-  xy: 1150, 195
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-UnitPromotionPortraits/Shock
-  rotate: false
-  xy: 1532, 577
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-UnitPromotionPortraits/Tactics
-  rotate: false
-  xy: 1723, 386
-  size: 183, 183
-  orig: 183, 183
-  offset: 0, 0
-  index: -1
-
-game6.png
-size: 2048, 1024
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 NationPortraits/America
   rotate: false
-  xy: 4, 4
+  xy: 959, 7
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 NationPortraits/Arabia
   rotate: false
-  xy: 195, 195
+  xy: 1150, 198
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 NationPortraits/Aztec
   rotate: false
-  xy: 386, 386
+  xy: 1341, 389
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 NationPortraits/Celtic
   rotate: false
-  xy: 577, 574
+  xy: 1532, 577
   size: 180, 183
   orig: 180, 183
   offset: 0, 0
   index: -1
 NationPortraits/China
   rotate: false
-  xy: 768, 768
+  xy: 1723, 771
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 NationPortraits/Egypt
   rotate: false
-  xy: 574, 386
+  xy: 1529, 389
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 NationPortraits/England
   rotate: false
-  xy: 956, 768
+  xy: 1147, 7
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 NationPortraits/France
   rotate: false
-  xy: 1144, 768
+  xy: 1338, 198
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 NationPortraits/Germany
   rotate: false
-  xy: 1332, 768
+  xy: 1335, 10
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 NationPortraits/Greece
   rotate: false
-  xy: 1520, 768
+  xy: 1526, 201
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 NationPortraits/Inca
   rotate: false
-  xy: 1708, 768
+  xy: 1720, 580
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 NationPortraits/India
   rotate: false
-  xy: 192, 4
+  xy: 1717, 389
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 NationPortraits/Japan
   rotate: false
-  xy: 383, 195
+  xy: 1714, 201
   size: 180, 180
   orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Khmer
+  rotate: false
+  xy: 4, 1341
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+NationPortraits/Korea
+  rotate: false
+  xy: 195, 1532
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
 NationPortraits/Mali
   rotate: false
-  xy: 380, 7
+  xy: 1523, 10
   size: 180, 180
   orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Maya
+  rotate: false
+  xy: 4, 768
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
 NationPortraits/Mongolia
   rotate: false
-  xy: 571, 198
+  xy: 1711, 13
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-NationPortraits/Persia
+NationPortraits/Native America
   rotate: false
-  xy: 765, 577
-  size: 180, 180
-  orig: 180, 180
+  xy: 768, 1150
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
-NationPortraits/Rome
+NationPortraits/Netherlands
   rotate: false
-  xy: 953, 580
-  size: 180, 180
-  orig: 180, 180
+  xy: 1341, 1723
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
-NationPortraits/Russia
+NationPortraits/Ottoman
   rotate: false
-  xy: 1141, 580
-  size: 180, 180
-  orig: 180, 180
+  xy: 195, 386
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
-NationPortraits/Spain
+NationPortraits/Portugal
   rotate: false
-  xy: 1329, 580
-  size: 180, 180
-  orig: 180, 180
+  xy: 1532, 1723
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+NationPortraits/Sumeria
+  rotate: false
+  xy: 768, 195
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
 NationPortraits/Viking
   rotate: false
-  xy: 195, 574
+  xy: 768, 4
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 NationPortraits/Zulu
   rotate: false
-  xy: 577, 765
+  xy: 1723, 959
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
-PolicyIcons/Tribalism
+TechPortraits/Industrialism
   rotate: false
-  xy: 4, 574
+  xy: 4, 1723
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
-PolicyIcons/Universal Suffrage
+TechPortraits/Iron Working
   rotate: false
-  xy: 195, 765
+  xy: 195, 1723
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
-PolicyIcons/Vassalage
+TechPortraits/Laser
   rotate: false
-  xy: 4, 383
+  xy: 386, 1723
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
-ReligionPortraits/Background
+TechPortraits/Liberalism
   rotate: false
-  xy: 1517, 584
-  size: 176, 176
-  orig: 176, 176
+  xy: 195, 1341
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
-ReligionPortraits/Buddhism
+TechPortraits/Literature
   rotate: false
-  xy: 1701, 584
-  size: 176, 176
-  orig: 176, 176
+  xy: 386, 1532
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
-ReligionPortraits/Christianity
+TechPortraits/Machinery
   rotate: false
-  xy: 1517, 400
-  size: 176, 176
-  orig: 176, 176
+  xy: 577, 1723
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
-ReligionPortraits/Confucianism
+TechPortraits/Masonry
   rotate: false
-  xy: 1701, 400
-  size: 176, 176
-  orig: 176, 176
+  xy: 386, 1341
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
-ReligionPortraits/Hinduism
+TechPortraits/Mass Media
   rotate: false
-  xy: 568, 11
-  size: 176, 176
-  orig: 176, 176
+  xy: 577, 1532
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
-ReligionPortraits/Islam
+TechPortraits/Mathematics
   rotate: false
-  xy: 752, 14
-  size: 176, 176
-  orig: 176, 176
+  xy: 768, 1723
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
-ReligionPortraits/Judaism
+TechPortraits/Medicine
   rotate: false
-  xy: 953, 396
-  size: 176, 176
-  orig: 176, 176
+  xy: 768, 1532
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
-ReligionPortraits/Taoism
+TechPortraits/Meditation
   rotate: false
-  xy: 1137, 396
-  size: 176, 176
-  orig: 176, 176
+  xy: 959, 1723
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Metal Casting
+  rotate: false
+  xy: 4, 577
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Military Science
+  rotate: false
+  xy: 195, 768
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Military Tradition
+  rotate: false
+  xy: 386, 959
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Mining
+  rotate: false
+  xy: 577, 1150
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Monarchy
+  rotate: false
+  xy: 959, 1532
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Monotheism
+  rotate: false
+  xy: 1150, 1723
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Music
+  rotate: false
+  xy: 195, 577
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Mysticism
+  rotate: false
+  xy: 386, 768
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Nationalism
+  rotate: false
+  xy: 577, 959
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Optics
+  rotate: false
+  xy: 4, 195
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Paper
+  rotate: false
+  xy: 386, 577
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Philosophy
+  rotate: false
+  xy: 577, 768
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Physics
+  rotate: false
+  xy: 768, 959
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Plastics
+  rotate: false
+  xy: 1150, 1341
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Polytheism
+  rotate: false
+  xy: 1341, 1532
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Pottery
+  rotate: false
+  xy: 4, 4
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Priesthood
+  rotate: false
+  xy: 195, 195
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Printing Press
+  rotate: false
+  xy: 386, 386
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Radio
+  rotate: false
+  xy: 577, 577
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Railroad
+  rotate: false
+  xy: 768, 768
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Refrigeration
+  rotate: false
+  xy: 1341, 1341
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Replaceable Parts
+  rotate: false
+  xy: 1532, 1532
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Rifling
+  rotate: false
+  xy: 1723, 1723
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Robotics
+  rotate: false
+  xy: 195, 4
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Rocketry
+  rotate: false
+  xy: 386, 195
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Sailing
+  rotate: false
+  xy: 577, 195
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Satellites
+  rotate: false
+  xy: 768, 386
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Scientific Method
+  rotate: false
+  xy: 959, 577
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Stealth
+  rotate: false
+  xy: 1532, 1150
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Steam Power
+  rotate: false
+  xy: 1723, 1341
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Steel
+  rotate: false
+  xy: 577, 4
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/Superconductors
+  rotate: false
+  xy: 959, 386
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+TechPortraits/The Wheel
+  rotate: false
+  xy: 1532, 959
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Theology
   rotate: false
-  xy: 4, 765
+  xy: 1723, 1150
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 TechPortraits/Writing
   rotate: false
-  xy: 386, 574
+  xy: 1532, 768
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
-UnitActionPortraits/Automate
+UnitPromotionPortraits/Interception I
   rotate: false
-  xy: 1896, 810
-  size: 138, 138
-  orig: 138, 138
+  xy: 4, 1532
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
-UnitActionPortraits/Background
+UnitPromotionPortraits/Leadership
   rotate: false
-  xy: 1321, 434
-  size: 138, 138
-  orig: 138, 138
+  xy: 4, 1150
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
-UnitActionPortraits/DisbandUnit
+UnitPromotionPortraits/March
   rotate: false
-  xy: 1896, 664
-  size: 138, 138
-  orig: 138, 138
+  xy: 195, 1150
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
-UnitActionPortraits/Explore
+UnitPromotionPortraits/Medic I
   rotate: false
-  xy: 1885, 518
-  size: 138, 138
-  orig: 138, 138
+  xy: 195, 959
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
-UnitActionPortraits/Fortify
+UnitPromotionPortraits/Medic II
   rotate: false
-  xy: 1885, 372
-  size: 138, 138
-  orig: 138, 138
+  xy: 386, 1150
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
-UnitActionPortraits/FoundCity
+UnitPromotionPortraits/Medic III
   rotate: false
-  xy: 1321, 288
-  size: 138, 138
-  orig: 138, 138
+  xy: 577, 1341
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
-UnitActionPortraits/MoveTo
+UnitPromotionPortraits/Mobility
   rotate: false
-  xy: 1467, 254
-  size: 138, 138
-  orig: 138, 138
+  xy: 768, 1341
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
-UnitActionPortraits/RemoveForest
+UnitPromotionPortraits/Morale
   rotate: false
-  xy: 1613, 254
-  size: 138, 138
-  orig: 138, 138
+  xy: 4, 386
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
-UnitActionPortraits/Sleep
+UnitPromotionPortraits/Navigation I
   rotate: false
-  xy: 762, 428
-  size: 138, 138
-  orig: 138, 138
+  xy: 959, 1341
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
-UnitActionPortraits/Stop
+UnitPromotionPortraits/Navigation II
   rotate: false
-  xy: 762, 282
-  size: 138, 138
-  orig: 138, 138
+  xy: 1150, 1532
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
-UnitActionPortraits/Wait
+UnitPromotionPortraits/Pinch
   rotate: false
-  xy: 908, 250
-  size: 138, 138
-  orig: 138, 138
+  xy: 959, 1150
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/Range I
+  rotate: false
+  xy: 959, 959
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/Range II
+  rotate: false
+  xy: 1150, 1150
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/Sentry
+  rotate: false
+  xy: 1150, 768
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/Shock
+  rotate: false
+  xy: 1341, 959
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/Tactics
+  rotate: false
+  xy: 1150, 577
+  size: 183, 183
+  orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Woodsman I
   rotate: false
-  xy: 386, 765
+  xy: 959, 195
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Woodsman II
   rotate: false
-  xy: 4, 192
+  xy: 1150, 386
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Woodsman III
   rotate: false
-  xy: 195, 383
+  xy: 1341, 577
   size: 183, 183
   orig: 183, 183
+  offset: 0, 0
+  index: -1
+
+game6.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationPortraits/Persia
+  rotate: false
+  xy: 4, 192
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Rome
+  rotate: false
+  xy: 4, 4
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Russia
+  rotate: false
+  xy: 192, 192
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+NationPortraits/Spain
+  rotate: false
+  xy: 192, 4
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Background
+  rotate: false
+  xy: 380, 196
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Buddhism
+  rotate: false
+  xy: 380, 12
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Christianity
+  rotate: false
+  xy: 564, 196
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Confucianism
+  rotate: false
+  xy: 564, 12
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Hinduism
+  rotate: false
+  xy: 748, 196
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Islam
+  rotate: false
+  xy: 748, 12
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Judaism
+  rotate: false
+  xy: 932, 196
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Taoism
+  rotate: false
+  xy: 932, 12
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+UnitActionPortraits/Automate
+  rotate: false
+  xy: 1116, 234
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+UnitActionPortraits/Background
+  rotate: false
+  xy: 1116, 88
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+UnitActionPortraits/DisbandUnit
+  rotate: false
+  xy: 1262, 234
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+UnitActionPortraits/Explore
+  rotate: false
+  xy: 1262, 88
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+UnitActionPortraits/Fortify
+  rotate: false
+  xy: 1408, 234
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+UnitActionPortraits/FoundCity
+  rotate: false
+  xy: 1408, 88
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+UnitActionPortraits/MoveTo
+  rotate: false
+  xy: 1554, 234
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+UnitActionPortraits/RemoveForest
+  rotate: false
+  xy: 1554, 88
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+UnitActionPortraits/Sleep
+  rotate: false
+  xy: 1700, 234
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+UnitActionPortraits/Stop
+  rotate: false
+  xy: 1700, 88
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+UnitActionPortraits/Wait
+  rotate: false
+  xy: 1846, 234
+  size: 138, 138
+  orig: 138, 138
   offset: 0, 0
   index: -1

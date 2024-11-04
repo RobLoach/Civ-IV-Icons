@@ -4,14 +4,14 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-VictoryIllustrations/Cultural/Background
+VictoryIllustrations/Diplomatic/Background
   rotate: false
   xy: 732, 1476
   size: 720, 486
   orig: 720, 486
   offset: 0, 0
   index: -1
-VictoryIllustrations/Diplomatic/Background
+VictoryIllustrations/Cultural/Background
   rotate: false
   xy: 732, 1476
   size: 720, 486
@@ -262,14 +262,14 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 VictoryIllustrations/Cultural/Won
   rotate: false
-  xy: 4, 14
+  xy: 732, 4
   size: 720, 486
   orig: 720, 486
   offset: 0, 0
   index: -1
 VictoryIllustrations/Diplomatic/Won
   rotate: false
-  xy: 732, 1486
+  xy: 4, 14
   size: 720, 486
   orig: 720, 486
   offset: 0, 0
@@ -283,7 +283,7 @@ VictoryIllustrations/Domination/Won
   index: -1
 VictoryIllustrations/Scientific/Won
   rotate: false
-  xy: 732, 4
+  xy: 732, 1486
   size: 720, 486
   orig: 720, 486
   offset: 0, 0

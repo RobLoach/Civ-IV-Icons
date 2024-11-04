@@ -1,215 +1,390 @@
 
 game_icons.png
-size: 2048, 512
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 EmojiIcons/Culture
   rotate: false
-  xy: 1341, 402
+  xy: 1150, 157
   size: 84, 80
   orig: 84, 80
   offset: 0, 0
   index: -1
 EmojiIcons/Death
   rotate: false
-  xy: 1341, 330
+  xy: 1723, 843
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 EmojiIcons/Food
   rotate: false
-  xy: 1150, 205
+  xy: 1723, 915
   size: 86, 86
   orig: 86, 86
   offset: 0, 0
   index: -1
 EmojiIcons/Gold
   rotate: false
-  xy: 1150, 115
+  xy: 1532, 624
   size: 82, 82
   orig: 82, 82
   offset: 0, 0
   index: -1
 EmojiIcons/Happiness
   rotate: false
-  xy: 1433, 440
+  xy: 4, 4
   size: 42, 42
   orig: 42, 42
   offset: 0, 0
   index: -1
 EmojiIcons/Production
   rotate: false
-  xy: 108, 20
+  xy: 1341, 348
   size: 84, 80
   orig: 84, 80
   offset: 0, 0
   index: -1
 EmojiIcons/Science
   rotate: false
-  xy: 1244, 214
+  xy: 1636, 733
   size: 77, 77
   orig: 77, 77
   offset: 0, 0
   index: -1
 EmojiIcons/SortedAscending
   rotate: false
-  xy: 200, 68
+  xy: 1817, 969
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 EmojiIcons/SortedDescending
   rotate: false
-  xy: 1483, 450
+  xy: 1150, 117
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 EmojiIcons/Turn
   rotate: false
-  xy: 4, 4
+  xy: 1532, 714
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
+PolicyIcons/Barbarism
+  rotate: false
+  xy: 195, 818
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/Bureaucracy
+  rotate: false
+  xy: 195, 627
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/Caste System
+  rotate: false
+  xy: 386, 818
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/Decentralization
+  rotate: false
+  xy: 386, 627
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/Despotism
+  rotate: false
+  xy: 577, 818
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/Emancipation
+  rotate: false
+  xy: 195, 245
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/Environmentalism
+  rotate: false
+  xy: 386, 436
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/Free Market
+  rotate: false
+  xy: 577, 627
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/Free Religion
+  rotate: false
+  xy: 768, 818
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/Free Speech
+  rotate: false
+  xy: 195, 54
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/Hereditary Rule
+  rotate: false
+  xy: 577, 436
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/Mercantilism
+  rotate: false
+  xy: 768, 627
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/Nationhood
+  rotate: false
+  xy: 577, 245
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/Organized Religion
+  rotate: false
+  xy: 768, 436
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/Pacifism
+  rotate: false
+  xy: 959, 627
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/Paganism
+  rotate: false
+  xy: 1150, 818
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/Police State
+  rotate: false
+  xy: 577, 54
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/Representation
+  rotate: false
+  xy: 768, 245
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/Serfdom
+  rotate: false
+  xy: 1150, 627
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/Slavery
+  rotate: false
+  xy: 768, 54
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/State Property
+  rotate: false
+  xy: 959, 245
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/Theocracy
+  rotate: false
+  xy: 1341, 627
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/Tribalism
+  rotate: false
+  xy: 1532, 818
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/Universal Suffrage
+  rotate: false
+  xy: 1150, 245
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+PolicyIcons/Vassalage
+  rotate: false
+  xy: 1341, 436
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
 UnitTypeIcons/Archery
   rotate: false
-  xy: 4, 299
+  xy: 4, 818
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitTypeIcons/Armored
   rotate: false
-  xy: 4, 108
+  xy: 4, 627
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitTypeIcons/Bomber
   rotate: false
-  xy: 195, 299
+  xy: 4, 436
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitTypeIcons/DomainAir
   rotate: false
-  xy: 195, 299
+  xy: 4, 436
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitTypeIcons/Fighter
   rotate: false
-  xy: 195, 299
+  xy: 4, 436
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitTypeIcons/Helicopter
   rotate: false
-  xy: 195, 299
+  xy: 4, 436
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitTypeIcons/Civilian
   rotate: false
-  xy: 195, 108
+  xy: 4, 245
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitTypeIcons/Civilian Water
   rotate: false
-  xy: 386, 299
+  xy: 195, 436
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitTypeIcons/DomainWater
   rotate: false
-  xy: 386, 299
+  xy: 195, 436
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitTypeIcons/Melee Water
   rotate: false
-  xy: 386, 299
+  xy: 195, 436
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitTypeIcons/Ranged Water
   rotate: false
-  xy: 386, 299
+  xy: 195, 436
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitTypeIcons/Submarine
   rotate: false
-  xy: 386, 299
+  xy: 195, 436
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitTypeIcons/DomainLand
   rotate: false
-  xy: 386, 108
+  xy: 4, 54
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitTypeIcons/Gunpowder
   rotate: false
-  xy: 577, 299
+  xy: 386, 245
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitTypeIcons/Missile
   rotate: false
-  xy: 577, 108
+  xy: 959, 818
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitTypeIcons/Mounted
   rotate: false
-  xy: 768, 299
+  xy: 386, 54
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitTypeIcons/Scout
   rotate: false
-  xy: 768, 108
+  xy: 959, 436
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitTypeIcons/Siege
   rotate: false
-  xy: 959, 299
+  xy: 1341, 818
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitTypeIcons/Sword
   rotate: false
-  xy: 959, 108
+  xy: 1150, 436
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
   index: -1
 UnitTypeIcons/UnitTypes
   rotate: false
-  xy: 1150, 299
+  xy: 959, 54
   size: 183, 183
   orig: 183, 183
   offset: 0, 0
